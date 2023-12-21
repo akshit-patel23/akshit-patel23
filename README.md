@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures and Algorithm<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help in some UI designing for my web-app projects <br>🌱 I’m currently learning Angular and Express.js<br>💬 Ask me about PHP and Laravel<br>
+🔭 I’m currently working on Data Structures and Algorithm<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with front-end for my web-app projects <br>🌱 I’m currently learning Angular and Express.js<br>💬 Ask me about PHP and Laravel<br>
 
 
 ## 🌐 Socials:
